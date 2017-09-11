@@ -1,0 +1,23 @@
+{
+  "name": "instagantt",
+  "version": "1.0.0",
+  "description": "instagantt – Messengers for Business",
+  "main": "index.js",
+  "author": "yatuhashi kei",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://instagantt.com/app",
+    "serviceName": "instagantt",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": true,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
